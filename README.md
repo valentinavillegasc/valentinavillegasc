@@ -6,4 +6,4 @@ Mi experiencia abarca una variedad de tecnologías punteras, como React, Redux, 
 
 Me centro en crear soluciones que sean atractivas y funcionales. Me entusiasma el diseño de experiencias de usuario y la búsqueda constante de formas de mejorar y optimizar los proyectos en los que trabajo.
 
-¡Es un placer conocerte y estoy emocionada por las oportunidades que el futuro tiene reservadas para mí en el mundo del desarrollo!
+¡Es un placer conocerte y estoy emocionada por las oportunidades que el futuro tiene reservadas para mí en el mundo del desarrollo!🤝
