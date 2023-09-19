@@ -1,9 +1,13 @@
-# Hola, mi nombre es Valentina! ✨
+# Hi, I'm Valentina! ✨
 
-## Desarrolladora web Full Stack
+## Full Stack Web Developer
 
-Mi experiencia abarca una variedad de tecnologías punteras, como React, Redux, Node.js, Next.js, Tailwind y CSS. 💻
+I focus on creating solutions that are both attractive and functional. I'm enthusiastic about designing user experiences and constantly searching for ways to 
+enhance and optimize the projects I work on.
 
-Me centro en crear soluciones que sean atractivas y funcionales. Me entusiasma el diseño de experiencias de usuario y la búsqueda constante de formas de mejorar y optimizar los proyectos en los que trabajo.
+###Tecnologies:
+JavaScript, React, Redux, Node.js, Next.js, Express.js, PostgreSQL, Tailwind & CSS. 💻
 
-¡Es un placer conocerte y estoy emocionada por las oportunidades que el futuro tiene reservadas para mí en el mundo del desarrollo!🤝
+
+
+
